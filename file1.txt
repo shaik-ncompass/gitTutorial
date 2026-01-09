@@ -1,3 +1,5 @@
 Brushed my teeth
 Had tiffin
 Dressed up
+Came to office
+Started to learn about git and github
